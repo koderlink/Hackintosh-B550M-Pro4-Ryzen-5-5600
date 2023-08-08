@@ -14,6 +14,7 @@
 | WiFi/Bluetooth | Intel AX200 NGFF M.2          |
 
 ## Credit and Links
+https://github.com/gabrielcasag/EFI-RYZEN-5600-B550-RX6600
 https://github.com/maxswjeon/OpenCore-5600X-B550-RX560
 
 ## PoC
