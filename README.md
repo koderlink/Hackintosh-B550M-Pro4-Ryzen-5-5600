@@ -1,9 +1,9 @@
-##
+## OpenCore
 | Bootloader  | macOS             |
 |-------------|-------------------|
 | OpenCore 0.9.3 | Ventura 13.5 |
 
-##
+## Specification
 | Name           | Detail                        |
 |----------------|-------------------------------|
 | Motherboard    | ASRock B550M Pro4             |
@@ -13,7 +13,10 @@
 | Storage        | MSI Spatium M390 250GB        |
 | WiFi/Bluetooth | Intel AX200 NGFF M.2          |
 
-##
+## Credit and Links
+https://github.com/maxswjeon/OpenCore-5600X-B550-RX560
+
+## PoC
 ![Image text](screenshot/1.png)
 
 ![Image text](screenshot/2.png)
